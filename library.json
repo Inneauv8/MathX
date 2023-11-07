@@ -1,0 +1,13 @@
+{
+    "name":"MathX",
+    "description":"Library adding more math function",
+    "keywords":"mathX",
+    "authors":
+    [
+      {
+        "name": "Mathieu Durand",
+        "maintainer": true
+      }
+    ],
+    "version": "1.0.0"
+  }
